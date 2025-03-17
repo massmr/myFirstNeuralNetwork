@@ -1,8 +1,3 @@
-Voici un copier-coller prêt à l'emploi pour ton README, avec les formules en pseudo-LaTeX adaptées à GitHub Markdown :  
-
-```markdown
-# Multilayer Neural Network  
-
 ## Description  
 Ce projet implémente un réseau de neurones multicouche en **PyTorch** pour une tâche de **classification binaire**.  
 Le modèle apprend à classifier des points générés aléatoirement selon une règle simple : la somme des coordonnées doit être supérieure à 1 pour être classée comme 1, sinon 0.  
@@ -73,9 +68,3 @@ avec :
 
 ## Résultats Attendus  
 Après l'entraînement, la précision sur les données de test devrait être d'environ **80-90%**.  
-
-## Auteur  
-Projet réalisé par **[Votre Nom]**.  
-```
-
-Tu peux directement coller ça dans ton README.md, et les formules s'afficheront correctement sur GitHub. 🚀
