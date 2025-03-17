@@ -66,5 +66,7 @@ avec :
 - `y_i` : vrai label (`0` ou `1`)  
 - `ŷ_i` : prédiction du modèle  
 
-## Résultats Attendus  
-Après l'entraînement, la précision sur les données de test devrait être d'environ **80-90%**.  
+## Résultats Attendus
+Après l'entraînement, la précision sur les données de test devrait être d'environ **80-90%**.
+
+
